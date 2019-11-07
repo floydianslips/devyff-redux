@@ -29,6 +29,7 @@
     "passport": "^0.4.0",
     "passport-facebook": "^3.0.0",
     "pretty-error": "^2.1.1",
+<<<<<<< HEAD
     "prop-types": "^15.6.2",
     "query-string": "^6.1.0",
     "react": "^16.11.0",
@@ -37,6 +38,21 @@
     "serialize-javascript": "^2.1.0",
     "source-map-support": "^0.5.9",
     "sqlite3": "^4.0.8",
+=======
+    "prop-types": "^15.6.1",
+    "query-string": "^6.0.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-redux": "^5.0.6",
+    "redux": "^3.7.2",
+    "redux-devtools-extension": "^2.13.2",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.2.0",
+    "sequelize": "^4.37.3",
+    "serialize-javascript": "^1.4.0",
+    "source-map-support": "^0.5.4",
+    "sqlite3": "^4.0.0",
+>>>>>>> feature/redux
     "universal-router": "^6.0.0",
     "whatwg-fetch": "^3.0.0"
   },
@@ -92,6 +108,7 @@
     "postcss-loader": "^3.0.0",
     "postcss-preset-env": "^6.6.0",
     "postcss-pseudoelements": "^5.0.0",
+<<<<<<< HEAD
     "prettier": "^1.14.3",
     "raw-loader": "^3.1.0",
     "react-deep-force-update": "^2.1.3",
@@ -100,6 +117,19 @@
     "react-test-renderer": "^16.11.0",
     "rimraf": "^3.0.0",
     "stylelint": "^9.5.0",
+=======
+    "postcss-selector-matches": "^3.0.1",
+    "postcss-selector-not": "^3.0.1",
+    "prettier": "^1.11.1",
+    "raw-loader": "^0.5.1",
+    "react-deep-force-update": "^2.1.1",
+    "react-dev-utils": "^5.0.0",
+    "react-error-overlay": "^4.0.0",
+    "react-test-renderer": "^16.2.0",
+    "redux-mock-store": "^1.4.0",
+    "rimraf": "^2.6.2",
+    "stylelint": "^9.1.3",
+>>>>>>> feature/redux
     "stylelint-config-standard": "^18.2.0",
     "stylelint-order": "^2.2.1",
     "svg-url-loader": "^2.3.2",
