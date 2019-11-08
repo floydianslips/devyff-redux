@@ -26,9 +26,6 @@ describe('Layout', () => {
     const store = mockStore(initialState);
     const wrapper = renderer
       .create(
-<<<<<<< HEAD
-        <App context={{ fetch: () => {}, pathname: '' }} insertCss={() => {}}>
-=======
         <App
           context={{
             insertCss: () => {},
@@ -37,7 +34,6 @@ describe('Layout', () => {
             store,
           }}
         >
->>>>>>> feature/redux
           <Layout>
             <div className="child" />
           </Layout>
